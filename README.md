@@ -1,2 +1,2 @@
 # Hangman
-Upload of Hangman project
+Hangman game project created in Java.
